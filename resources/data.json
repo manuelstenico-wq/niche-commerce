@@ -1,1 +1,10 @@
-
+{
+    "bevande":[
+        {
+            "nome":"caffeMacchiato",
+            "prezzo": 2 ,
+            "caffeinato":true,
+            "immagine": "caffeMacchiato.jpg"
+        }
+    ]
+}
