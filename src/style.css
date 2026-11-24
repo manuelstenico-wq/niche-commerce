@@ -1,0 +1,5 @@
+/* CSS variables definition: */
+.root {
+    --primary-color: #333;
+    --borders: solid var(--primary-color) 0.5vw;
+}
