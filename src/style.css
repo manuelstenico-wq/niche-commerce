@@ -1,5 +1,17 @@
+@import url("./fonts.css");
+
 /* CSS variables definition: */
 .root {
     --primary-color: #333;
     --borders: solid var(--primary-color) 0.5vw;
+    --primary-font-family: 'JetBrains Mono';
+}
+
+img {
+    height: auto;
+}
+
+#page-title {
+    font-family: var(--primary-font-family);
+    font-size: 1vh;
 }
